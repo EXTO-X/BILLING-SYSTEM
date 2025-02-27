@@ -1,0 +1,11 @@
+** Welcome Customer **
+Bill Number: 676
+Customer Name: 123
+Phone Number: 123213
+Purchase Date and Time: 26-02-2025 21:32:21
+Product			Quantity			Price
+Bath Soap			012312			615600Rs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cosmetics Tax				110808.0Rs
+Overall Cosmetic Price				726408.0
+Total Bill				726408.0
